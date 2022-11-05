@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Atom/ Icon/ Rich icon/ Communications/ Flight Status</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Atom/-Icon/-Rich-icon/-Communications/-Flight-Status" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="COMMS_Flight-Status">
+            <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+            <g id="Group" transform="translate(1.948372, 0.000000)" fill-rule="nonzero">
+                <polygon id="Path" fill="#BD8B13" points="22.0516282 5.4 27.4616282 0 16.6516282 0"></polygon>
+                <path d="M20.0516282,26.7700003 L32.4216282,26.7700003 L32.4216282,24.86 L20.9616282,24.86 L20.9616282,9.58 L19.0516282,9.58 L19.0516282,25.81 C19.0731093,26.3466039 19.5145946,26.7704298 20.0516282,26.7700003 Z" id="Path" fill="#4E4C4A"></path>
+                <path d="M27.5032563,3 L25.9232563,4.58724629 C36.0477737,6.60042851 42.999382,16.002702 41.9925847,26.3215289 C40.9857873,36.6403558 32.3491978,44.5077221 22.0282563,44.5077221 C11.7073148,44.5077221 3.07072536,36.6403558 2.06392798,26.3215289 C1.05713059,16.002702 8.00873894,6.60042851 18.1332563,4.58724629 L16.5532563,3 C5.82656933,5.78232087 -1.16733237,16.1433305 0.228602997,27.1839102 C1.62453836,38.2244899 10.9747816,46.5 22.0532563,46.5 C33.131731,46.5 42.4819743,38.2244899 43.8779096,27.1839102 C45.273845,16.1433305 38.2799433,5.78232087 27.5532563,3 L27.5032563,3 Z" id="Path" fill="#4E4C4A"></path>
+            </g>
+        </g>
+    </g>
+</svg>

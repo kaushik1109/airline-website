@@ -1,0 +1,95 @@
+.container {
+    width: 80%;
+    /* background-color: #181717e0; */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+}
+.A {
+    font-size: 60px;
+    color: red;
+    position: relative;
+    right: 40px;
+}
+.B {
+    font-size: 100px;
+    color: rgb(91, 81, 69);
+    position: relative;
+    bottom: 29px;
+}
+.C {
+    font-size: 60px;
+    color: red;
+    position: relative;
+    bottom: 40px;
+    left: 85px;
+}
+.D {
+    font-size: 18px;
+    width: 60%;
+    color: #333333e0;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.covid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 28px;
+}
+.cov {
+    width: 60%;
+    text-align: left;
+}
+.R {
+    width: 60%;
+    text-align: left;
+    font-size: 20px;
+    cursor: pointer;
+}
+.contain {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+.baggage {
+    width: 25%;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+li {
+    font-size: 15px;
+    text-align: left;
+}
+li p {
+    font-size: 22px;
+}
+.image {
+    height: 50px;
+}
+.children {
+    width: 25%;
+}
+.food {
+    width: 25%;
+}
+.change {
+    width: 25%;
+}
